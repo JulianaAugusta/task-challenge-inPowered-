@@ -25,6 +25,6 @@ A simple task list (To-Do List) project built with Angular 10, designed to demon
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone https://github.com/JulianaAugusta/task-challenge-inPowered-
+  
 
