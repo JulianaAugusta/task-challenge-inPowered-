@@ -1,27 +1,30 @@
 # TaskApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
+# 📝 Task List - Angular 10
 
-## Development server
+A simple task list (To-Do List) project built with Angular 10, designed to demonstrate proficiency with components, RxJS, localStorage, best practices, and responsive design.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- Add new tasks
+- Mark tasks as completed
+- Filter tasks by status (All / Pending / Completed)
+- Delete tasks with confirmation modal
+- Persist tasks using `localStorage`
+- Responsive layout with modern custom styling
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Technologies Used
 
-## Build
+- Angular 10
+- RxJS
+- TypeScript
+- HTML5 + CSS3 (SCSS)
+- LocalStorage (Web Storage API)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## ▶️ Getting Started
 
-## Running unit tests
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
+   cd repo-name
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
