@@ -2,7 +2,7 @@
 
 # 📝 Task List - Angular 10
 
-A simple task list (To-Do List) project built with Angular 10, designed to demonstrate proficiency with components, RxJS, localStorage, best practices, and responsive design.
+A simple task list (To-Do List) project built with Angular 10, designed to demonstrate proficiency with components, RxJS, localStorage and best practices.
 
 ## 🚀 Features
 
